@@ -5,12 +5,12 @@ Grey0wl.github.io
 This is my first try at github!
 
 My Github user page is at: 
-https://github.com/Russelb/
+https://grey0wl.github.io
 
 My Github Pages repo can be found at:  
-https://github.com/Russelb/Russelb.github.io/
+https://github.com/Grey0wl/grey0wl.github.io
 
 And, soon, you can see my customized homepage at:
 
-http://Russelb.github.io/
+http:///Grey0wl/grey0wl.github.io
 Public Page
